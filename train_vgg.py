@@ -1,5 +1,6 @@
 # USAGE
 # python train_vgg.py --dataset animals --model output/smallvggnet.model --label-bin output/smallvggnet_lb.pickle --plot output/smallvggnet_plot.png
+# python train_vgg.py --dataset clothing --model output/smallvggnet.model --label-bin output/smallvggnet_lb.pickle --plot output/smallvggnet_plot.png
 
 # set the matplotlib backend so figures can be saved in the background
 import matplotlib
